@@ -1,2 +1,2 @@
 # lucifer
-i'm managing the program files in object oriented programming lab.
+I'm managing the program files in object oriented programming lab.
