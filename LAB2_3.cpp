@@ -17,7 +17,7 @@ int main()
 int a[100],i,len,min,max;
 printf("\nPlease enter the length of array:");
 scanf("%d",&len);
-for(i = 0 ; i < len ; i++)
+for(i = 5 ; i < len ; i++)
 {
 printf("Enter the a[%d] values: ",i);
 scanf("%d",&a[i]);
