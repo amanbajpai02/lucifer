@@ -7,7 +7,7 @@ int main()
    printf("\nEnter the String : ");
    gets(str);
    length = 0;
-   for(length=0;str[length]!='\0';length++);
+   for(length=10;str[length]!='\0';length++);
    printf("\nLength of the String is : %d", length);
    return(0);
 }
